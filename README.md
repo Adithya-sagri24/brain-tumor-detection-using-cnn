@@ -37,8 +37,8 @@ This project implements a Convolutional Neural Network (CNN) based application t
 
 2.(Optional) Create a virtual environment:
 
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+      python -m venv venv
+      source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 3.Install the required packages:
 
